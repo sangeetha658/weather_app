@@ -1,2 +1,3 @@
 weather app
-https://raw.githubusercontent.com/sangeetha658/weatherapp/example/example1.png
+![add image](https://raw.githubusercontent.com/sangeetha658/weather_app/main/example/example1.png)
+
